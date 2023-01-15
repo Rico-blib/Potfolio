@@ -27,7 +27,7 @@ const Intro = () => {
       <div className="i-left">
         <div className="m-intro">
           <span style={{color : darkMode? 'white' : ''}}>Hy! I am</span>
-          <span>Erick Wainanina</span>
+          <span>Erick Wainaina</span>
           <span>FullStack developer and a Data Architect with high level of experience in web designing, development and data analysis,<br/>       producting the Quality work</span>
           <Link spy={true} to='hire' smooth={true}>
           <button className="button m-button">Hire Me</button>
